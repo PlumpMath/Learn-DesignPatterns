@@ -1,1 +1,0 @@
-D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\SimpleFactory\bin\Debug\SimpleFactory.exe.config
