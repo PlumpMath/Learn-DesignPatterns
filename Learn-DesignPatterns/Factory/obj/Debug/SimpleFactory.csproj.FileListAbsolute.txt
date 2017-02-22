@@ -1,0 +1,5 @@
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Factory\bin\Debug\Factory.exe.config
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Factory\obj\Debug\Factory.exe
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Factory\obj\Debug\Factory.pdb
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Factory\bin\Debug\Factory.exe
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Factory\bin\Debug\Factory.pdb
