@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Component.cs" />
+    <Compile Include="Decorator.cs" />
+    <Compile Include="ImageComponent.cs" />
+    <Compile Include="ImageDecoratorWaterMark.cs" />
+    <Compile Include="ImageDecoratorZoomIn.cs" />
+    <Compile Include="ImageDecoratorZoomOut.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

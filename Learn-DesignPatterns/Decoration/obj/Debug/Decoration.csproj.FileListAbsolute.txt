@@ -1,0 +1,6 @@
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Decoration\bin\Debug\Decoration.exe.config
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Decoration\bin\Debug\Decoration.exe
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Decoration\bin\Debug\Decoration.pdb
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Decoration\obj\Debug\Decoration.csprojResolveAssemblyReference.cache
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Decoration\obj\Debug\Decoration.exe
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Decoration\obj\Debug\Decoration.pdb
