@@ -7,3 +7,6 @@ D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Strategy\obj\Debug\Strateg
 D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Strategy\obj\Debug\Strategy.exe
 D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Strategy\obj\Debug\Strategy.pdb
 D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Strategy\obj\Debug\Strategy.Form1.resources
+E:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+E:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Strategy\obj\Debug\Strategy.exe
+E:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Strategy\obj\Debug\Strategy.pdb
