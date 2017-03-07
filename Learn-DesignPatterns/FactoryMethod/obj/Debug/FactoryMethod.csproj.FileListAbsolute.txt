@@ -1,0 +1,6 @@
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
