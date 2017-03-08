@@ -1,0 +1,6 @@
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Prototype\bin\Debug\Prototype.exe
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Prototype\obj\Debug\Prototype.exe
+D:\Code\Git\Learn-DesignPatterns\Learn-DesignPatterns\Prototype\obj\Debug\Prototype.pdb
