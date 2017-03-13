@@ -1,0 +1,6 @@
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Singleton\bin\Debug\Singleton.exe
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Singleton\obj\Debug\Singleton.exe
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Singleton\obj\Debug\Singleton.pdb
