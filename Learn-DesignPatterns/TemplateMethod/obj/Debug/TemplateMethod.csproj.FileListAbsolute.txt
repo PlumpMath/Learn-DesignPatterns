@@ -1,0 +1,6 @@
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb
