@@ -1,0 +1,6 @@
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Builder\bin\Debug\Builder.exe.config
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Builder\bin\Debug\Builder.exe
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Builder\bin\Debug\Builder.pdb
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Builder\obj\Debug\Builder.exe
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Builder\obj\Debug\Builder.pdb
