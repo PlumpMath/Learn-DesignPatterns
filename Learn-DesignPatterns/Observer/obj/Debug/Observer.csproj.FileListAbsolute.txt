@@ -1,0 +1,6 @@
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Observer\bin\Debug\Observer.exe.config
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Observer\bin\Debug\Observer.exe
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Observer\bin\Debug\Observer.pdb
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Observer\obj\Debug\Observer.exe
+D:\Code\Github\Learn-DesignPatterns\Learn-DesignPatterns\Observer\obj\Debug\Observer.pdb
